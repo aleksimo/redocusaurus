@@ -1,5 +1,12 @@
 # redocusaurus
 
+## 1.5.1
+
+### Patch Changes
+
+- Updated dependencies [[`4fc1b4c`](https://github.com/rohit-gohri/redocusaurus/commit/4fc1b4cb83cb36056d2b5edb052df90ac5a035f6)]:
+  - docusaurus-theme-redoc@1.5.1
+
 ## 1.5.0
 
 ### Patch Changes
